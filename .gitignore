@@ -1,0 +1,8 @@
+# Ignoramos el contenido de las siguientes carpetas:
+
+csv/
+data/
+final/
+pickle/
+predict/
+report/
